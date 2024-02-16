@@ -1,0 +1,134 @@
+#titulo {
+    margin: 0px;
+    margin-left: 20px;
+}
+
+#PORTADA {
+    width: 100%;
+    height: 800px; 
+}
+
+header {
+    background-color:cornflowerblue;
+    padding: 30px;
+    margin: 0px;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 80px;
+}
+
+nav {
+    background-color: darkmagenta; 
+    padding: 10px; 
+    margin: 0px;
+    font-size: 50px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 80px; 
+    font-size: 80px;
+}
+
+nav ul li a {
+    color: #fff; 
+    text-decoration: none; 
+    padding: 10px; 
+    transition: background-color 1s ease; 
+}
+
+aside {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    font-size: 55px;
+    line-height: 100px;
+    text-align: justify;
+}
+
+#COMUNION {
+    display: flex; 
+    margin: 0 auto; 
+    width: 1600px;
+    height: 1200px; 
+    float: right; 
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+
+section {
+    background-image: url(FONDO.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+figure {
+    background-color: rgb(243, 191, 94);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+main {
+    background-color: rgb(194, 137, 186);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+#CREDITOS {
+    font-size: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+p {
+    margin-left: 40px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+} 
+
+li{
+    margin-left: 80px;
+}
+
+table{
+    background-color: #ffffff;
+    color: white;
+    border-style:dotted ;
+}
+
+iframe{
+    width: 2000px; 
+    height: 1200px; 
+    display: flex; 
+    margin: 0 auto; 
+}
